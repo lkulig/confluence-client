@@ -1,1 +1,1 @@
-Confluence Client
+Simple Confluence Client 
